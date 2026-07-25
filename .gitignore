@@ -1,0 +1,11 @@
+# compiled class files - regenerated every build, don't need in repo
+bin/
+*.class
+
+# eclipse project settings - IDE specific, not needed by others
+.settings/
+.classpath
+.project
+
+# runtime data file - regenerates itself when program runs
+donors.txt
